@@ -1,4 +1,4 @@
-# PoC: Dashboard de Infraestrutura Porto Digital 🚀
+# Dashboard de Infraestrutura Porto Digital 🚀
 
 Este projeto foi essencial na familiarização com ferramentas importantes para a realização do meu projeto de estágio - Python, Docker e Kubernetes
 
